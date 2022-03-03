@@ -7,5 +7,6 @@ At the time of publishing this repository, approximately 700 games, or draws, ha
 In other words, if the equivalent real-world data set were to be evaluated, we may find the same such inherent biases. Knowing that information could ever-so-slightly increase your chances of winning the game. An amusing thought 😊 but the lottery is ultimately a game of chance. 
 
 Disclaimer & Limitations: 
--This code does not represent or claim to predict any real-world lotto game.
--This code should not be used to select any numbers where your money is at risk.        
+•	This code does not represent or claim to predict any real-world lotto game.
+•	This code should not be used to select any numbers where your money is at risk.  
+      
